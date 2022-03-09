@@ -1,5 +1,5 @@
 {
-    "name": "orchestra/support",
+    "name": "enriquejlicona/support",
     "description": "Support Component for Orchestra Platform",
     "homepage": "http://orchestraplatform.com/docs/latest/components/support/",
     "keywords": ["orchestra-platform", "orchestral", "laravel", "validator", "utilities"],
@@ -21,7 +21,7 @@
     "require": {
         "php": "^7.3 || ^8.0",
         "illuminate/support": "^8.65",
-        "orchestra/contracts": "^6.0",
+        "enriquejlicona/contracts": "^7.0.0",
         "statamic/stringy": "^3.1"
     },
     "require-dev": {
