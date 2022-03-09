@@ -20,7 +20,7 @@
     },
     "require": {
         "php": "^7.3 || ^8.0",
-        "illuminate/support": "^8.65",
+        "illuminate/support": "^9.0",
         "enriquejlicona/contracts": "^7.0.0",
         "statamic/stringy": "^3.1"
     },
